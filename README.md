@@ -4,7 +4,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blue.svg)](CONTRIBUTING.md)
 
-A voice-controlled Python assistant that can perform various tasks such as searching Wikipedia, sending emails, playing music, opening popular websites, checking the time, and launching applications — all by just using your voice!
+Personal Voice Assistant is an intelligent, voice-controlled Python application designed to simplify everyday computer interactions. By leveraging speech recognition and natural language processing, users can perform a wide range of tasks hands-free — including searching Wikipedia for information, composing and sending emails, playing music from a local library, launching popular websites like YouTube or GitHub, checking the current time, and even opening desktop applications like Visual Studio Code. This project aims to make human-computer interaction more intuitive, efficient, and accessible through voice commands.
 
 ## 👤 Author
 
